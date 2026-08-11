@@ -40,6 +40,15 @@ For the converter to find the background engine, LibreOffice must be added to yo
    ```cmd
    setx /M PATH "%PATH%;C:\Program Files\LibreOffice\program"
 
+(Note: If you installed LibreOffice on a different drive, adjust the path in the command above accordingly).
+
+Step 3: Run the App
+Download the latest .zip release of this application.
+
+Extract the folder to your computer.
+
+Double-click FormatConverter.exe to start converting files!
+
 ## Usage
 1. Launch the executable.
 2. Drag and drop up to 10 `.pdf` or `.docx` files directly into the application window.
